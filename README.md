@@ -14,13 +14,11 @@ Chosen topic: "Przewidywanie cen nieruchomości na podstawie cech lokalizacji" (
 
 ## /python directory
 
-In /python directory, there is /data directory, with models (which you shall unzip upon cloning the repo) and with datasets. 
+In /python directory, place the datasets in /data directory. Datasets are available in /research/datasets.md
 
 project.py is a plain script that executes the entire project at once.
 
 ## /notebooks directory
-
-In /notebooks directory, there is /data directory with models (which you shall unzip upon cloning the repo) and with datasets. 
 
 Data_Mining_Project.ipynb is the first part of the project, with exploratory analysis and data preprocessing.
 
@@ -35,3 +33,7 @@ Contains sources and datasets
 ## ED-Raport koncowy.pdf
 
 Contains the project report.
+
+## Predykcja cen nieruchomości za pomocą porównania trzech regresorów.pdf
+
+Final presentation.
